@@ -35,4 +35,27 @@ public class Arraylist{
 
 
 	}
+
 }
+
+
+// delete line     			cmd  + y
+// unused import 			opt  + cmd + o
+// format file        	 	opt  + cmd + l
+// previous location     	opt  + cmd + arrow
+// search all files      	ctrl + shft + f
+// find file with name   	shft + shft
+
+		/*
+		  git gui&
+		  git branch
+		  git status
+		  git stash
+		  git checkout master
+		  git pull
+		  git checkout feature/b1
+
+		  git pull
+		  git gui&
+		  sit stash pop
+		 */
