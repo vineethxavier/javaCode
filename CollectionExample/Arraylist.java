@@ -1,6 +1,11 @@
 package CollectionExample;
-
 import java.util.*;
+
+/**
+ * @author vineethxavier
+ *
+ * Example to show array list.
+ */
 public class Arraylist{
 	public static void main(String[] args) {
 		ArrayList al= new ArrayList();
@@ -48,7 +53,7 @@ public class Arraylist{
 		  git gui&
 		  git branch
 		  git status
-		  git stash
+		  git stash save "my message"
 		  git checkout master
 		  git pull
 		  git checkout feature/b1
