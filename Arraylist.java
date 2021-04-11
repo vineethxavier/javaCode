@@ -29,9 +29,9 @@ public class Arraylist{
 		al.add(3, "C");
 		System.out.println("after inserting a,b,c,C,d,e size =" + al.size());
 		System.out.println("\n --arraylist elements--\n");
-		for(int x: ArrayList() al){
+		/*for(int x: ArrayList() al){
 			System.out.println(x);
-		}
+		}*/
 
 
 	}

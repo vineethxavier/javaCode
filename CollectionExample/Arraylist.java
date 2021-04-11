@@ -50,6 +50,8 @@ public class Arraylist{
 // find file with name   	shft + shft
 
 		/*
+		  ssh location /Users/vineethxavier/.ssh/id_rsa.pub
+		  
 		  git gui&
 		  git branch
 		  git status
