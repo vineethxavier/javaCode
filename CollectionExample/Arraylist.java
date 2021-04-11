@@ -1,4 +1,11 @@
+package CollectionExample;
 import java.util.*;
+
+/**
+ * @author vineethxavier
+ *
+ * Example to show array list.
+ */
 public class Arraylist{
 	public static void main(String[] args) {
 		ArrayList al= new ArrayList();
@@ -35,10 +42,6 @@ public class Arraylist{
 
 
 	}
-
-}
-
-
 // delete line     			cmd  + y
 // unused import 			opt  + cmd + o
 // format file        	 	opt  + cmd + l
@@ -47,10 +50,12 @@ public class Arraylist{
 // find file with name   	shft + shft
 
 		/*
+		  ssh location /Users/vineethxavier/.ssh/id_rsa.pub
+		  
 		  git gui&
 		  git branch
 		  git status
-		  git stash
+		  git stash save "my message"
 		  git checkout master
 		  git pull
 		  git checkout feature/b1
@@ -58,4 +63,10 @@ public class Arraylist{
 		  git pull
 		  git gui&
 		  sit stash pop
+
+		  if a branch is created in local (intellij) to push that branch to remote
+		  	git checkout -b feature_branch_name
+			git push -u origin feature_branch_name
 		 */
+
+}
